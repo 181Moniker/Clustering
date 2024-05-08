@@ -1,7 +1,6 @@
 This repo will hold any algorithm concerning clustering strategies that I make.
 The programs within the repo are:
   1) K-means
-
 1)  
 K-means is a clustering algorithm used in unsupervised machine learning that partitions data according to stochastically generated centroids. 
 Say 3 centers are generated amongst a group of 10 data points: data points A through C are closest to center A and as such, call out to it, 
